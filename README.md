@@ -1,4 +1,17 @@
-## Hi there 👋
+# Federico
+
+Full-Stack Engineer specializing in React, JavaScript, TypeScript and modern web applications.
+
+---
+
+## 🎓 Certifications
+
+- Frontend Developer Career Path – Scrimba
+- Advanced React – Scrimba
+- Responsive Web Design – freeCodeCamp
+- JavaScript Algorithms and Data Structures – freeCodeCamp
+
+---
 
 <!--
 **federicocelia/federicocelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
