@@ -6,7 +6,7 @@
 
 A great website is more than code. It's your brand, your credibility, and often your first impression.
 
-I'm a Full-Stack Engineer specializing in modern web development with React, TypeScript, and JavaScript.
+I'm a Full-Stack Engineer specialized in modern web development with React, TypeScript, and JavaScript.
 
 I help businesses build fast, responsive, and user-focused websites and applications that solve problems and create opportunities.
 
