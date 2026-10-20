@@ -1,8 +1,8 @@
-# Federico Celia
+# Federico Celia 👋
 
 ## Full-Stack Engineer | React Developer | TypeScript & JavaScript | 
 
-## 🚀 Building fast, scalable, and user-focused web applications
+## ⚡ Building fast, scalable, and user-focused web applications ✨
 
 A great website is more than code. It's your brand, your credibility, and often your first impression.
 
